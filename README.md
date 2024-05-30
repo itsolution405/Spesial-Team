@@ -16,3 +16,4 @@ Framework/Libraries 🚀
 ![button](https://github.com/itsolution405/Spesial-Team/blob/main/React.svg)
 
 Tools 🚀
+![button](https://github.com/itsolution405/Spesial-Team/blob/main/Figma.svg)
